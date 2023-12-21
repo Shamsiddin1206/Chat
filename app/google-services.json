@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338311651657",
+    "project_id": "chat-b187f",
+    "storage_bucket": "chat-b187f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338311651657:android:ce1ee666d50ec6ce9f7a98",
+        "android_client_info": {
+          "package_name": "shamsiddin.project.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_V-KeteG_z9we6hqwZ_JdnRJl3052Q2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
